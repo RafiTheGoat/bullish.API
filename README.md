@@ -1,1 +1,2 @@
-# bullish.API
+Student management system API
+
